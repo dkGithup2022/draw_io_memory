@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="6">
   <diagram name="페이지-1" id="NMgESBQWUYPld58FH72c">
     <mxGraphModel dx="2354" dy="2598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -988,7 +988,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="C214RAxluKfSnsIWLodG" name="페이지-5">
+  <diagram id="C214RAxluKfSnsIWLodG" name="플러그인 아키텍쳐">
     <mxGraphModel dx="2245" dy="1176" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1271,6 +1271,23 @@
         </mxCell>
         <mxCell id="Piy9DGbgJOEmrf8COQMi-79" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;JavaFactoryInfoBuider&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="1285" width="246.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Piy9DGbgJOEmrf8COQMi-81" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="305" width="399" height="187" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-h9wX-PGtStO0u5DGRRK" name="크롤링 패턴">
+    <mxGraphModel dx="1386" dy="1000" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kb7DsLUI5o2w8r9iBLeC-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-257" y="8" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kb7DsLUI5o2w8r9iBLeC-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;크롤링 패턴 정의하기 &lt;/font&gt;&lt;/b&gt;.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;1.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="105" width="423" height="411" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
